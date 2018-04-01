@@ -1,0 +1,14 @@
+{
+    "plugins": [],
+    "title": "Bitemporal Cell",
+    "description": "You never have to delete any data",
+    "language": "en",
+    "links": {
+        "sidebar": {
+            "Fork me": "https://github.com/bitemporal"
+        }
+    },
+    "pluginsConfig": {}
+}
+
+
